@@ -1,7 +1,2 @@
-module.exports = {
-  content: ['./index.html', './src/**/*.{js,jsx}'],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
+// Tailwind removed: no configuration required.
+module.exports = {}

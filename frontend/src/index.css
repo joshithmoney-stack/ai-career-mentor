@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-white text-slate-900; margin: 0; padding: 0; }
+input { @apply border p-2 mt-2 w-full }
+button { @apply bg-blue-600 text-white px-3 py-2 rounded }
+
